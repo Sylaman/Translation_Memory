@@ -8,14 +8,13 @@ public class HoursSplitter {
 
     public void print() {
         String[] result = split(original);
-        for (int i = 0; i < result.length; i++) {
-            System.out.println(result[i].trim() + " ");
+        for (String s : result) {
+            System.out.println(s.trim() + " ");
         }
     }
 
     public String[] split(String hoursText) {
-        String[] hours = hoursText.split(" ");
-        return hours;
+        return hoursText.split(" ");
     }
 
 }

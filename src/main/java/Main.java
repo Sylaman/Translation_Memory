@@ -8,7 +8,7 @@ public class Main {
 
         HoursSplitter hoursSplitter = new HoursSplitter(HOURS);
         MarksTranslation marksTranslation = new MarksTranslation(MARKS);
-        SubjectTranslation subjectTranslation = new SubjectTranslation();
+        SubjectTranslation subjectTranslation = new SubjectTranslation(SUBJECTS);
 
         System.out.println("-------------Количество часов-------------");
         hoursSplitter.print();
