@@ -18,6 +18,7 @@ public class MarksTranslation {
                 case "хорошо" -> translatedMarks[i] = "good";
                 case "удовлетворительно", "удовл", "удовл." -> translatedMarks[i] = "satisfactory";
                 case "зачтено", "зачет" -> translatedMarks[i] = "credited";
+                default -> translatedMarks[i] = "ОШИБКА";
             }
         }
         return translatedMarks;
