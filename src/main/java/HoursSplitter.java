@@ -1,6 +1,6 @@
 public class HoursSplitter {
 
-    String original;
+    protected String original;
 
     public HoursSplitter(String original) {
         this.original = original;
