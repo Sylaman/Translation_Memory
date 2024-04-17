@@ -12,9 +12,4 @@ public class HoursSplitter {
             System.out.println(number);
         }
     }
-
-    public String[] split(String hoursText) {
-        return hoursText.split(" ");
-    }
-
 }
