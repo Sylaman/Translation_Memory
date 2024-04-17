@@ -1,15 +1,15 @@
 public class HoursSplitter {
 
-    protected String original;
+    protected String hours;
 
-    public HoursSplitter(String original) {
-        this.original = original;
+    public HoursSplitter(String hours) {
+        this.hours = hours;
     }
 
     public void print() {
-        String[] result = split(original);
-        for (String s : result) {
-            System.out.println(s.trim() + " ");
+        String[] numbers = hours.split("\\s+");
+        for (String number : numbers) {
+            System.out.println(number);
         }
     }
 

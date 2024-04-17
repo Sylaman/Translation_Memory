@@ -7,26 +7,24 @@ public class MarksTranslation {
     }
 
     public String[] split(String marksString) {
-        return marksString.split(" ");
+        return original.split("\\s+");
     }
 
-    public String[] translate() {
-        String[] translatedMarks = split(original);
-        for (int i = 0; i < translatedMarks.length; i++) {
-            switch (translatedMarks[i]) {
-                case "отлично" -> translatedMarks[i] = "excellent";
-                case "хорошо" -> translatedMarks[i] = "good";
-                case "удовлетворительно", "удовл", "удовл." -> translatedMarks[i] = "satisfactory";
-                case "зачтено", "зачет" -> translatedMarks[i] = "credited";
-                default -> translatedMarks[i] = "--------------ОШИБКА--------------";
+    public String[] translate(String[] marks) {
+        for (int i = 0; i < marks.length; i++) {
+            switch (marks[i]) {
+                case "отлично", "отл.", "отл" -> marks[i] = "excellent";
+                case "хорошо" -> marks[i] = "good";
+                case "удовлетворительно", "удовл", "удовл." -> marks[i] = "satisfactory";
+                case "зачтено", "зачет", "зачёт" -> marks[i] = "credited";
+                default -> marks[i] = "--------------ОШИБКА--------------";
             }
         }
-        return translatedMarks;
+        return marks;
     }
 
-    public void print() {
-        String[] result = translate();
-        for (String s : result) {
+    public void print(String[] translatedMarks) {
+        for (String s : translatedMarks) {
             System.out.println(s.trim() + " ");
         }
     }
