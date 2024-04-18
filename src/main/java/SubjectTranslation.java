@@ -32,12 +32,14 @@ public class SubjectTranslation {
         for (int i = 0; i < original.length; i++) {
             translationMap.put(original[i], translation[i]);
         }
-
         if (containsMissingKeys(translationMap, subjects)) {
             System.out.println("Есть отсутствующие строки в ключах HashMap:");
         } else {
-            System.out.println("Все строки из массива присутствуют в ключах HashMap.");
-            //TODO реализовать вывод значений по всем ключам
+            for (String subject : subjects) {
+                if (translationMap.containsKey(subject)) {
+                    System.out.println(translationMap.get(subject).concat(" "));
+                }
+            }
         }
     }
 }

@@ -6,7 +6,7 @@ public class MarksTranslation {
         this.original = original;
     }
 
-    public String[] split(String marksString) {
+    public String[] split() {
         return original.split("\\s+");
     }
 

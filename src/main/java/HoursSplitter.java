@@ -9,7 +9,7 @@ public class HoursSplitter {
     public void print() {
         String[] numbers = hours.split("\\s+");
         for (String number : numbers) {
-            System.out.println(number);
+            System.out.println(number.concat(" "));
         }
     }
 }
