@@ -132,7 +132,7 @@ public class SubjectsInEnglish {
             Hygiene and epidemiology of emergency situations
             Microbiology
             General dentistry
-            Prosthodontics\s
+            Prosthodontics
             Oral surgery
             Clinical Implantology
             Diagnostics, screening of malignant tumors
@@ -164,7 +164,7 @@ public class SubjectsInEnglish {
             Theoretical mechanics
             Material resistance
             Theory of mechanisms and machines
-            Descriptive geometry\s
+            Descriptive geometry
             Drawing
             Electrical engineering
             Radio engineering
@@ -193,7 +193,7 @@ public class SubjectsInEnglish {
             Metrology, standardization and certification
             Artistic crafts and folk crafts
             Agricultural technology
-            Welding\s
+            Welding
             Education economics
             Professional legal communications
             Roman private law
@@ -217,7 +217,7 @@ public class SubjectsInEnglish {
             Legal psychology
             Environmental Law
             Economic sociology
-            Forensic psychiatry\s
+            Forensic psychiatry
             Customs law
             Judicial power and law enforcement agencies
             Criminal executive law
@@ -244,7 +244,7 @@ public class SubjectsInEnglish {
             International law
             Tax law
             International private law
-            Municipal law\s
+            Municipal law
             History of political and legal doctrines
             Constitutional law of Russia
             History of state and law of foreign countries
@@ -273,7 +273,7 @@ public class SubjectsInEnglish {
             Organization and management of enterprise
             Biological damageability of non-food products
             Ethics and psychology in merchandising activity
-            Man and his needs\s
+            Man and his needs
             Basics of foreign economic activity
             Methods and means of consumer goods research
             Methods and devices of non-food goods quality assessment
@@ -292,7 +292,41 @@ public class SubjectsInEnglish {
             Certification of household and cultural goods
             Service maintenance of household and cultural and household goods
             Identification and falsification of consumer goods
-            Commodity science and expertise of food products""";
+            Commodity science and expertise of food products
+            Inorganic chemistry
+            Analytical chemistry
+            Organic chemistry
+            Physical chemistry
+            Chemical fundamentals of biological processes
+            Quantum chemistry
+            Psychology
+            Introduction to speciality (profession)
+            Elective disciplines in physical education and sport
+            Academic writing (in a foreign language)
+            Fundamentals of Orthodox culture
+            Academic writing (in Russian)
+            Fundamentals of project management
+            Colloidal chemistry
+            Structure of matter
+            Physical methods of research in chemistry
+            Chromatographic and ion exchange methods
+            Special chapters of chemistry in English
+            Biology with basics of ecology
+            Methods of teaching chemistry
+            New information technologies in chemistry
+            Techniques of chemical experimentation
+            High-molecular compounds
+            Chemical technology
+            Electrochemical methods of analysis
+            Spectral methods of analysis of biologically active substances
+            Theoretical basics of adsorption at phase boundary
+            Analytical control of food products and biologically active substances
+            Ecotoxicology (in English)
+            Basics of crystal chemistry
+            Methods of analysis
+            Chemical materials science
+            Chemical basics of medical materials science
+            """;
 
     public String[] getSubjectsArray() {
         return subjects.split("\n");

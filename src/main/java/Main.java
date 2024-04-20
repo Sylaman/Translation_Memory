@@ -3,16 +3,10 @@ public class Main {
     public static void main(String[] args) {
 
         String subjects = """
-                Регенеративная медицина
-                Челюстно-лицевая косметология
-                Управленческая экономика
-                Поликлиническая терапия
-                Экономика семьи
-                Экология
-                Управление качеством
+
                 """;
-        String hours = "50 90 69  57 110 230 90 65  92   94 ";
-        String marks = "отлично хорошо отлично   удовлетворительно отл. хорошо  зачет зачтено";
+        String hours = " ";
+        String marks = " ";
 
         HoursSplitter hoursSplitter = new HoursSplitter(hours);
         MarksTranslation marksTranslation = new MarksTranslation(marks);
