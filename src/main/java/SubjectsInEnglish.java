@@ -326,6 +326,64 @@ public class SubjectsInEnglish {
             Methods of analysis
             Chemical materials science
             Chemical basics of medical materials science
+            History of Tatarstan
+            Tatar language
+            World art culture
+            Management in the field of educational services
+            Law in the educational sector
+            Natural science picture of the world
+            Fundamentals of mathematical information processing
+            Computer technologies in innovative teaching of foreign languages
+            Information and communication technologies in education and cultural-educational activity
+            Introduction to pedagogical practice
+            History of education and pedagogical thought
+            Theoretical pedagogy
+            Practical pedagogy
+            Age and pedagogical psychology
+            Social psychology
+            Methods of teaching and education in the field of foreign languages
+            Theory of teaching foreign languages
+            Safety of human life activity in emergency situations
+            Age anatomy, physiology and hygiene
+            Basics of medical knowledge and first aid
+            Passport of schoolchildren's health and reflection of healthy lifestyle factors
+            History of language
+            Theory and practice of translation
+            Comparative linguistics
+            Lexicology
+            Introduction to linguistics
+            Ancient Languages (Latin)
+            Stylistics
+            Practical course of foreign language
+            Country and linguocultural studies
+            Practical phonetics
+            Practical grammar
+            Language and intercultural communication
+            Technology and methodology of foreign language teaching at secondary general education school
+            Russian literature and culture
+            Foreign literature and culture
+            Coursework in the speciality
+            Diachronic peculiarities of learning foreign language
+            Rhetorics
+            Morphology, syntax and punctuation
+            Corrective grammar of foreign language
+            Theoretical aspects of foreign language phonetics
+            History of linguistic doctrines
+            Language of business communication
+            Features of modern intercultural communication
+            Complex analysis of artistic text in foreign language
+            Translation analysis of text
+            Philological text analysis
+            Modern technologies of teaching speech activity types
+            Project methodology of teaching foreign languages
+            Technologies of teaching foreign languages to preschool children
+            Technologies of preparation for international examinations
+            Modern means of evaluation of learning results
+            Ethnopedagogy
+            Psychology of healthy lifestyle
+            Basic Tatar language
+            Business Tatar language
+            Translation of professionally oriented texts in Tatar language
             """;
 
     public String[] getSubjectsArray() {
