@@ -384,6 +384,39 @@ public class SubjectsInEnglish {
             Basic Tatar language
             Business Tatar language
             Translation of professionally oriented texts in Tatar language
+            Biochemistry
+            Anatomy
+            Histology, embryology, cytology
+            Microbiology, virology
+            Immunology
+            Pathological anatomy
+            Pathophysiology
+            Clinical pharmacology
+            Neurology, medical genetics, neurosurgery
+            Psychiatry, medical psychology
+            Life safety, disaster medicine
+            Propaedeutics of internal diseases, radiation diagnostics
+            Departmental therapy, occupational diseases
+            Hospital therapy, endocrinology
+            Phthisiology
+            General surgery, radiation diagnostics
+            Anaesthesiology, reanimation, intensive therapy
+            Faculty surgery, urology
+            Hospital surgery, pediatric surgery
+            Oncology, radiation therapy
+            Traumatology, orthopaedics
+            Foreign language for medical professionals
+            Psychology of conflict
+            Natural-scientific basics of medicine
+            Fundamentology of medicine
+            Patient care
+            Nursing
+            Fundamentals of scientific research in medicine
+            Evidence-based medicine
+            Medical and biological conceptual apparatus
+            Business Russian language
+            Professional communications
+            Tropical medicine
             """;
 
     public String[] getSubjectsArray() {
