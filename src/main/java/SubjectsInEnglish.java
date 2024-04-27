@@ -457,15 +457,15 @@ public class SubjectsInEnglish {
             Gender psychology
             Group dynamics and facilitation
             Psychology of social cognition
-            Organisational development
+            Organizational development
             Psychology of social adaptation
             Personnel management
-            Psychological counselling
+            Psychological counseling
             Training technology
             Qualitative methods in social-psychological research
             Political psychology
-            Psychoanalytical counselling
-            Organisational culture diagnostics
+            Psychoanalytic counseling
+            Organizational culture diagnostics
             Monitoring of subject-spatial environment
             Marketing psychology
             Conflict and negotiation
