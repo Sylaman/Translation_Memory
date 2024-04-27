@@ -417,6 +417,63 @@ public class SubjectsInEnglish {
             Business Russian language
             Professional communications
             Tropical medicine
+            Fundamentals of religious studies
+            Social anthropology
+            History of world civilisations
+            Probability methods in psychology
+            Informatics and computer science in psychology
+            Anthropology
+            Anatomy of the central nervous system
+            Physiology of the central nervous system
+            Physiology of higher nervous activity and sensory systems
+            Ethnosociology
+            Information technologies in psychology
+            Social ecology
+            Integrative studies of personality
+            Introduction to profession
+            Experimental psychology
+            General psychological practice
+            History of psychology
+            Zoopsychology and comparative psychology
+            Psychogenetics
+            Psychology of personality
+            Psychodynamics
+            Methodological basics of psychology
+            Mathematical methods in psychology
+            Developmental and age psychology
+            Labour psychology
+            Clinical psychology
+            Special psychology
+            Psychophysiology
+            Methods of teaching psychology
+            Psychology of communication
+            Management psychology
+            Differential psychology
+            Methodology of social research
+            Problems and perspectives of modern psychology
+            Computer statistical systems in psychology
+            Social pedagogy
+            Basics of psychotherapy
+            Gender psychology
+            Group dynamics and facilitation
+            Psychology of social cognition
+            Organisational development
+            Psychology of social adaptation
+            Personnel management
+            Psychological counselling
+            Training technology
+            Qualitative methods in social-psychological research
+            Political psychology
+            Psychoanalytical counselling
+            Organisational culture diagnostics
+            Monitoring of subject-spatial environment
+            Marketing psychology
+            Conflict and negotiation
+            Communicative competence
+            Language and communication
+            Employment psychology
+            Psychology of advertising
+            Fundamentals of medical knowledge
             """;
 
     public String[] getSubjectsArray() {
