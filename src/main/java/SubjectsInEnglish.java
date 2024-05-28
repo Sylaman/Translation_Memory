@@ -474,6 +474,60 @@ public class SubjectsInEnglish {
             Employment psychology
             Psychology of advertising
             Fundamentals of medical knowledge
+            History of Russia
+            Basics of economics and production management
+            Differential calculus and analytical geometry
+            Integral calculus. Rows
+            Functions of many variables. Differential equations
+            Physical basics of mechanics and molecular physics
+            Electromagnetism and waves
+            Quantum physics
+            General chemistry
+            Chemistry of hydrocarbons
+            Chemistry of hydrocarbon derivatives
+            Analytical chemistry and physical-chemical methods of analysis
+            Chemical thermodynamics
+            Physical solution chemistry
+            Kinetics and catalysis
+            Engineering graphics
+            Applied mechanics
+            Electrical engineering and industrial electronics
+            Processes and apparatuses of chemical technology
+            Control systems of chemical-technological processes
+            Modeling of chemical-technological processes
+            Materials science. Technology of structural materials
+            General chemical technology
+            Chemical reactors
+            Economics and organization of oil and gas processing
+            History of oil and gas industry
+            Business etiquette and culture of communication
+            Professional foreign language
+            Probability theory and mathematical statistics
+            General-purpose software systems
+            Oil and gas chemistry
+            Synthetic methods of organic chemistry
+            Computational mathematics
+            Basics of biotechnology
+            Basics of nanochemistry
+            Quality and certification of petroleum products
+            Oil refining technology
+            Design and equipment of oil and gas processing plants
+            Gas processing
+            Basics of lubricant production
+            Fundamentals of petrochemical synthesis
+            Fundamentals of oil and gas production
+            Technical thermodynamics and heat engineering
+            Basics of hydraulics
+            Modeling and control of technological processes of oil and gas processing
+            Professional oriented Russian language
+            Reagents for drilling and well maintenance
+            Methods of oil and gas production intensification
+            Production of high-molecular compounds
+            Technology of petrochemical synthesis
+            Training scientific and research work of students
+            Reagents for combating complications in oil and gas production processes
+            Industrial preparation of oil, gas and water
+            Physical education (elective discipline)
             """;
 
     public String[] getSubjectsArray() {
