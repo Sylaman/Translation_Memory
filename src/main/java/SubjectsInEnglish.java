@@ -528,6 +528,51 @@ public class SubjectsInEnglish {
             Reagents for combating complications in oil and gas production processes
             Industrial preparation of oil, gas and water
             Physical education (elective discipline)
+            Foreign language (English)
+            Higher mathematics
+            Probability theory and mathematics
+            Social and economic statistics
+            Customs statistics
+            Internet technologies
+            Economic geography
+            Economic and mathematical methods
+            Customs information technologies
+            Constitutional law
+            Declaration of goods and vehicles
+            Fundamentals of national security
+            Business law
+            Property management
+            Supervision of security and customs authorities
+            State regulation of economy
+            Finance, money circulation and credit
+            Economic potential of the customs territory of Russia
+            World economy and foreign economic activity
+            Customs economics
+            Taxes and customs payments
+            Currency regulation and currency control
+            Civil law
+            Civil and arbitration procedure
+            Criminal law
+            Management in customs authorities
+            Organization of customs control of goods and vehicles
+            Commodity nomenclature of foreign economic activity
+            Customs and tariff regulation of foreign economic activity and customs value
+            Customs administration
+            History of customs business and customs policy of Russia
+            Commodity science and expertise in customs business
+            Natural resources management
+            Tax system
+            Accounting and audit
+            Analysis and diagnostics of economic activity
+            Management restructuring
+            Organization of struggle against economic crimes
+            Risk management
+            Business valuation
+            Information security
+            Financial management
+            Economic security
+            Prevention of economic offenses
+            System analysis
             """;
 
     public String[] getSubjectsArray() {
