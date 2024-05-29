@@ -5,26 +5,110 @@ public class Main {
     public static void main(String[] args) {
 
         String subjects = """
+                Иностранный язык
+                Философия
+                Культурология
+                Отечественная история
+                Правоведение
+                Социология
+                Политология
+                Психология и педагогика
+                Физическая культура
+                Русский язык и культура речи
+                Математика
+                Информатика
+                Концепции современного естествознания
+                Основы менеджмента
+                История менеджмента
+                Экономическая теория
+                Маркетинг
+                Теория организации
+                Мировая экономика
+                Финансы и кредит
+                Статистика
+                Бухгалтерский учет
+                Организационное поведение
+                Хозяйственное право
+                История экономики
+                Этика и культура управления
+                Экология
+                Эконометрика
+                Анализ финансово-хозяйственной деятельности предприятия
+                Документационное обеспечение управления
+                Социология управления
+                Безопасность жизнедеятельности
+                Экономика предприятий
+                Исследование социально-экономических и политических процессов
+                Стратегический менеджмент
+                Исследование систем управления
+                Управленческие решения
+                Информационные технологии управления
                 """.trim();
         String hours = " ";
-        String marks = " ";
+        String marks = """
+                Зачтено
+                Хорошо
+                Зачтено
+                Удовлетворительно
+                Зачтено
+                Удовлетворительно
+                Зачтено
+                Хорошо
+                Хорошо
+                Хорошо
+                Зачтено
+                Удовлетворительно
+                Зачтено
+                Хорошо
+                Зачтено
+                Хорошо
+                Хорошо
+                Хорошо
+                Зачтено
+                Зачтено
+                Зачтено
+                Зачтено
+                Зачтено
+                Зачтено
+                Зачтено
+                Зачтено
+                Хорошо
+                Зачтено
+                Хорошо
+                Зачтено
+                Хорошо
+                Зачтено
+                Зачтено
+                Удовлетворительно
+                Зачтено
+                Зачтено
+                Хорошо
+                Отлично
+                Зачтено
+                Удовлетворительно
+                Хорошо
+                Зачтено
+                Хорошо
+                Зачтено
+                Зачтено
+                Зачтено
+                Отлично
+                """;
 
         HoursSplitter hoursSplitter = new HoursSplitter(hours);
         MarksTranslation marksTranslation = new MarksTranslation(marks);
         SubjectTranslation subjectTranslation = new SubjectTranslation(subjects);
 
-        ArrayList<String> translation = subjectTranslation.translate();
-        print(translation);
+        ArrayList<String> translatedSubjects = subjectTranslation.translate();
+        print(translatedSubjects);
 
         System.out.println();
         System.out.println("КОЛИЧЕСТВО ЧАСОВ:");
         hoursSplitter.print();
 
-        System.out.println();
         System.out.println("ОЦЕНКИ:");
-        String[] splitMarks = marksTranslation.split();
-        String[] translatedMarks = marksTranslation.translate(splitMarks);
-        marksTranslation.print(translatedMarks);
+        ArrayList<String> translatedMarks = marksTranslation.translate();
+        print(translatedMarks);
     }
 
     private static void print(ArrayList<String> list) {

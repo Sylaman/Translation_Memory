@@ -1,31 +1,24 @@
+import java.util.ArrayList;
+
 public class MarksTranslation {
 
-    protected String original;
+    private final String[] splitMarks;
 
-    public MarksTranslation(String original) {
-        this.original = original;
+    public MarksTranslation(String originalMarks) {
+        this.splitMarks = originalMarks.split("\\s+");
     }
 
-    public String[] split() {
-        return original.split("\\s+");
-    }
-
-    public String[] translate(String[] marks) {
-        for (int i = 0; i < marks.length; i++) {
-            switch (marks[i]) {
-                case "отлично", "отл.", "отл" -> marks[i] = "excellent";
-                case "хорошо" -> marks[i] = "good";
-                case "удовлетворительно", "удовл", "удовл." -> marks[i] = "satisfactory";
-                case "зачтено", "зачет", "зачёт" -> marks[i] = "credited";
-                default -> marks[i] = "--------------ОШИБКА--------------";
-            }
+    public ArrayList<String> translate() {
+        ArrayList<String> result = new ArrayList<>();
+        for (String splitMark : splitMarks) {
+            result.add(switch (splitMark.toLowerCase()) {
+                case "отлично", "отл.", "отл" -> "excellent";
+                case "хорошо" -> "good";
+                case "удовлетворительно", "удовл", "удовл." -> "satisfactory";
+                case "зачтено", "зачет", "зачёт" -> "credited";
+                default -> "--------------ОШИБКА--------------";
+            });
         }
-        return marks;
-    }
-
-    public void print(String[] translatedMarks) {
-        for (String s : translatedMarks) {
-            System.out.println(s.trim() + " ");
-        }
+        return result;
     }
 }
