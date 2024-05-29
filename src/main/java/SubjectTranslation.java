@@ -53,10 +53,10 @@ public class SubjectTranslation {
         HashMap<String, String> translationMap = fillMap(original, translation);
         if (isMissing(translationMap, subjects)) {
             result = getMissingSubjects(translationMap, subjects);
-        } else {
-            for (String subject : subjects) {
-                result.add(translationMap.get(subject));
-            }
+            return result;
+        }
+        for (String str : subjects) {
+            result.add(translationMap.get(str).concat(" "));
         }
         return result;
     }

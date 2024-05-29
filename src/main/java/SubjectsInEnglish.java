@@ -592,6 +592,64 @@ public class SubjectsInEnglish {
             Selected issues of tuberculosis
             Palliative therapy
             Elective courses in physical education (elective discipline)
+            Foreign language 1 (English)
+            History of the Don Cossackdom
+            Foreign language 3 (German)
+            Philosophy of the East: traditions and modernity
+            History of entrepreneurship in Russia
+            Mathematics and Informatics (mathematics)
+            Mathematics and informatics (Informatics)
+            Concepts of modern natural science (physics and chemistry)
+            Ecological management in tourism
+            Fundamentals of the theory of mass service
+            Human being and his needs (service science)
+            Service activity
+            Psychodiagnostics
+            Psychological practice
+            Professional ethics and etiquette
+            Valeology
+            Foreign language 2 (Spanish)
+            Speech communication
+            World culture and art
+            Economics and entrepreneurship in social and cultural services and tourism
+            Management in social and cultural service and tourism
+            Marketing in social and cultural service and tourism
+            Information technologies in social and cultural service and tourism
+            Organizational engineering
+            Methods of scientific research
+            Standardization and certification of social and cultural and tourist services
+            Regional studies
+            Geography of tourism in the Russian Federation and CIS
+            Recreational resource science
+            Currency and financial operations in social and cultural service and tourism
+            Technique and technology of social and cultural service and tourism
+            Legal support of social and cultural service and tourism
+            Advertising in operations in social-cultural service and tourism
+            Public relations
+            Documentation management support of social and cultural service and tourism
+            Innovations in social and cultural service and tourism
+            Introduction to tourism
+            Organization of tourist enterprise activity
+            Organization of service in tourist and hotel complexes
+            Theory and methodology of sports and self-organized tourism
+            Organization of social tourism
+            Excursion studies
+            Organization of catering in resort and hotel complexes
+            Transport provision in the tourism industry
+            Organization of outbound tourism
+            Animation in tourism activity
+            Taxes and taxation
+            Medical basics in the tourism industry
+            Country studies
+            Accounting and audit in tourism and hotel economy
+            Museum studies
+            Exposition and exhibition work
+            Tourism securities
+            Management of social-cultural sector and tourism
+            Russian and foreign literature
+            Tourist formalities
+            Sanitary and hygienic basics of restaurant and hotel service
+            Basics of price formation in the tourist sector
             """;
 
     public String[] getSubjectsArray() {
