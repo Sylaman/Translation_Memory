@@ -224,7 +224,7 @@ public class TranslationDB {
             Criminal law (General part)
             Theory of state and law
             Labor Law
-            National History
+            National history
             Land law
             Civil law (Special part)
             Housing law
@@ -650,6 +650,27 @@ public class TranslationDB {
             Tourist formalities
             Sanitary and hygienic basics of restaurant and hotel service
             Basics of price formation in the tourist sector
+            Fundamentals of management
+            History of management
+            Organisation theory
+            World economics
+            Finance and credit
+            Statistics
+            Accounting
+            Organizational behaviour
+            Economic law
+            Economic history
+            Ethics and culture of management
+            Econometrics
+            Analysis of financial and economic activity of the enterprise
+            Documentary support of management
+            Sociology of management
+            Economics of enterprises
+            Research of social-economic and political processes
+            Strategic management
+            Management systems research
+            Managerial decisions
+            Management information technologies
             """;
 
     public String[] getSubjectsArray() {
