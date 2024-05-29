@@ -4,20 +4,22 @@ import java.util.Map;
 
 public class SubjectTranslation {
 
-    private final String[] subjects;
+    OriginalDB originalDB = new OriginalDB();
+    TranslationDB translationDB = new TranslationDB();
+    private final String[] allOriginalSubjects;
+    private final String[] allTranslatedSubjects;
+    private final String[] subjectsToTranslate;
 
-    public SubjectTranslation(String subjects) {
-        this.subjects = subjects.split("\n");
+    public SubjectTranslation(String subjectsToTranslate) {
+        this.subjectsToTranslate = subjectsToTranslate.split("\n");
+        this.allOriginalSubjects = originalDB.getSubjectsArray();
+        this.allTranslatedSubjects = translationDB.getSubjectsArray();
     }
 
-    SubjectsInRussian subjectsInRussian = new SubjectsInRussian();
-    SubjectsInEnglish subjectsInEnglish = new SubjectsInEnglish();
-    private final String[] original = subjectsInRussian.getSubjectsArray();
-    private final String[] translation = subjectsInEnglish.getSubjectsArray();
 
-    private ArrayList<String> getMissingSubjects(Map<String, String> map, String[] array) {
+    private ArrayList<String> getMissingSubjects(Map<String, String> map) {
         ArrayList<String> missingSubjects = new ArrayList<>();
-        for (String str : array) {
+        for (String str : subjectsToTranslate) {
             if (!map.containsKey(str)) {
                 missingSubjects.add(str);
             }
@@ -25,9 +27,9 @@ public class SubjectTranslation {
         return missingSubjects;
     }
 
-    private boolean isMissing(Map<String, String> map, String[] array) {
+    private boolean isMissing(Map<String, String> map) {
         boolean result = false;
-        for (String str : array) {
+        for (String str : subjectsToTranslate) {
             if (!map.containsKey(str)) {
                 result = true;
                 break;
@@ -36,26 +38,23 @@ public class SubjectTranslation {
         return result;
     }
 
-    private HashMap<String, String> fillMap(String[] originalArray, String[] translationArray) {
+    private HashMap<String, String> fillMap() {
         HashMap<String, String> map = new HashMap<>();
-        if (originalArray.length != translationArray.length) {
-            System.out.println("МАССИВЫ НЕ РАВНЫ!");
-        } else {
-            for (int i = 0; i < original.length; i++) {
-                map.put(original[i], translation[i]);
-            }
+        for (int i = 0; i < allOriginalSubjects.length; i++) {
+            map.put(allOriginalSubjects[i], allTranslatedSubjects[i]);
         }
         return map;
     }
 
     protected ArrayList<String> translate() {
         ArrayList<String> result = new ArrayList<>();
-        HashMap<String, String> translationMap = fillMap(original, translation);
-        if (isMissing(translationMap, subjects)) {
-            result = getMissingSubjects(translationMap, subjects);
+        HashMap<String, String> translationMap = fillMap();
+
+        if (isMissing(translationMap)) {
+            result = getMissingSubjects(translationMap);
             return result;
         }
-        for (String str : subjects) {
+        for (String str : subjectsToTranslate) {
             result.add(translationMap.get(str).concat(" "));
         }
         return result;

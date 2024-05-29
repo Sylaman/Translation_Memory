@@ -5,8 +5,7 @@ public class Main {
     public static void main(String[] args) {
 
         String subjects = """
-
-                """;
+                """.trim();
         String hours = " ";
         String marks = " ";
 
@@ -15,10 +14,6 @@ public class Main {
         SubjectTranslation subjectTranslation = new SubjectTranslation(subjects);
 
         ArrayList<String> translation = subjectTranslation.translate();
-        if (translation.get(0).matches(".*[\\u0400-\\u04FF].*")) {
-            System.out.println("Отсутствует перевод следующих предметов:");
-            System.out.println();
-        }
         print(translation);
 
         System.out.println();
@@ -34,6 +29,10 @@ public class Main {
 
     private static void print(ArrayList<String> list) {
         System.out.println();
+        if (list.get(0).matches(".*[\\u0400-\\u04FF].*")) {
+            System.out.println("Отсутствует перевод следующих элементов:");
+            System.out.println();
+        }
         for (String str : list) {
             System.out.println(str);
         }

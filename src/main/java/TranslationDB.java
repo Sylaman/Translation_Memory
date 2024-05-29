@@ -1,4 +1,4 @@
-public class SubjectsInEnglish {
+public class TranslationDB {
 
     String subjects = """
             Philosophy
