@@ -573,6 +573,25 @@ public class SubjectsInEnglish {
             Economic security
             Prevention of economic offenses
             System analysis
+            Health economics
+            Pathological anatomy, clinical pathological anatomy
+            Medical rehabilitation, medical and social expertise
+            Disaster medicine
+            Faculty therapy
+            Hospital therapy
+            General surgery
+            Faculty surgery
+            Hospital surgery
+            Pediatric surgery
+            Military field surgery, military field therapy
+            Fundamental medicine
+            Non-infectious epidemiology
+            Culture of Russian speech
+            Sociology, political science
+            Fundamentals of molecular medicine
+            Selected issues of tuberculosis
+            Palliative therapy
+            Elective courses in physical education (elective discipline)
             """;
 
     public String[] getSubjectsArray() {
