@@ -14,8 +14,8 @@ public class MarksTranslation {
             result.add(switch (splitMark.toLowerCase()) {
                 case "отлично", "отл.", "отл" -> "excellent";
                 case "хорошо" -> "good";
-                case "удовлетворительно", "удовл", "удовл." -> "satisfactory";
-                case "зачтено", "зачет", "зачёт" -> "credited";
+                case "удовлетворительно", "удовл", "удовл.", "удовлетв", "удовлетв." -> "satisfactory";
+                case "зачтено", "зачет", "зачёт", "зач", "зачт", "зачт." -> "credited";
                 default -> "--------------ОШИБКА--------------";
             });
         }

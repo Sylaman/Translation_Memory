@@ -702,6 +702,39 @@ public class TranslationDB {
             Course work on the organization of document management
             Course work on information systems
             Course work on information support of management
+            World history
+            History of the Russian state and law
+            Roman law
+            Criminal law of Russia and foreign countries
+            Criminal procedure of the Russian Federation and foreign countries
+            Labor law of Russia and foreign countries
+            Administrative law of Russia
+            Administrative law of foreign countries
+            International public law
+            Civil law of Russia
+            Civil and commercial law of foreign countries
+            Civil procedure and arbitration of Russia
+            Civil procedure and arbitration of foreign countries
+            Financial law of Russia
+            Financial law of foreign countries
+            Law enforcement authorities in Russia
+            Customs law of Russia
+            International customs law and customs law of foreign countries
+            Transport law of Russia and foreign countries
+            International economic relations
+            Basics of accounting and foreign trade statistics
+            Public service
+            History of international relations and foreign policy of Russia
+            Legal regulation of foreign economic relations
+            Insurance in the Russian Federation and foreign countries
+            Business partnerships and societies
+            Mathematics and informatics
+            Basics of diplomatic service and practice
+            English language (first)
+            Legal categories and concepts in English
+            Translation skills
+            Civil defence
+            Physical education
             """;
 
     public String[] getSubjectsArray() {
