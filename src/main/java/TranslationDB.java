@@ -671,6 +671,37 @@ public class TranslationDB {
             Management systems research
             Managerial decisions
             Management information technologies
+            History of the USSR (pre-Soviet period)
+            History of the USSR of the Soviet period
+            History of foreign countries
+            History of philosophy
+            History of the Communist Party of the Soviet Union
+            Soviet law
+            Higher mathematics and mathematical methods in management
+            Mathematical logic
+            Documentary science
+            Computer science and basics of programming
+            Documentology
+            History of state institutions
+            Political economy
+            Documentary linguistics
+            Technical film and photo documentation
+            Technology and organization of document management
+            History of ethical and aesthetic doctrines
+            Archivology
+            Theory and practice of management
+            Ergonomics
+            Management ethics
+            Information support of management
+            Information systems
+            History of social and political doctrines
+            Special course
+            Special seminar
+            Course work on documentology
+            Course work on theory and practice of management
+            Course work on the organization of document management
+            Course work on information systems
+            Course work on information support of management
             """;
 
     public String[] getSubjectsArray() {

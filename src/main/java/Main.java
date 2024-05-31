@@ -25,7 +25,11 @@ public class Main {
 
         System.out.println("ОЦЕНКИ:");
         ArrayList<String> translatedMarks = marksTranslation.translate();
-        print(translatedMarks);
+        try {
+            print(translatedMarks);
+        } catch (IndexOutOfBoundsException e) {
+            System.out.println("Не указаны оценки");
+        }
     }
 
     private static void print(ArrayList<String> list) {
