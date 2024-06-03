@@ -735,6 +735,39 @@ public class TranslationDB {
             Translation skills
             Civil defence
             Physical education
+            Russian language stylistics and speech culture
+            Ancient languages and cultures
+            General linguistics
+            History of linguistics
+            History of language and introduction to special philology
+            Theoretical phonetics
+            Lexicology
+            Theoretical grammar
+            Fundamentals of 2nd language theory
+            Introduction to the theory of intercultural communication
+            Practical course of the first foreign language
+            Practical course of the second foreign language
+            History and culture of the target language countries
+            History of literature of the target language countries
+            Sociolinguistics
+            American English language
+            English-language literature of multiculturalism
+            Delinquent culture of the USA and Great Britain
+            British prose of the 21st century
+            Statistical processing of linguistic texts
+            Peculiarities of translating media texts
+            Dictionaries and Internet resources in the translator's work
+            English poetry in Russian translations
+            Translation theory
+            Practical course of translation (first language)
+            Practical course of translation (second language)
+            Practical course in the culture of speech communication (first language)
+            Practical course in the culture of speech communication (second language)
+            Corrective grammar course
+            Culture of written speech
+            Culture of business communication
+            Peculiarities of legal translation
+            Spanish language
             """;
 
     public String[] getSubjectsArray() {
