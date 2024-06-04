@@ -768,6 +768,42 @@ public class TranslationDB {
             Culture of business communication
             Peculiarities of legal translation
             Spanish language
+            Mathematical modeling of systems and processes
+            Basics of theoretical mechanics
+            Computer graphics
+            Simulation modeling
+            Chemical current sources
+            Descriptive geometry. Engineering graphics
+            Mechanics. Applied mechanics
+            Theoretical basics of electrical engineering
+            Electronics
+            Life safety (including life safety in emergency situations)\s
+            Electrical machines and electric drive
+            Theory of discrete devices of automatics and telemechanics
+            Basics of technical diagnostics
+            Basics of reliability theory
+            Economics of transport
+            Electric networks and power systems
+            Theory of nonlinear circuits
+            Theory of electric traction
+            Railroad power supply
+            Traction and transformer substations
+            Automation of power supply system
+            Relay protection
+            Contact networks and power lines
+            Construction, installation and operation of power supply devices
+            Electronic equipment and converters in power supply
+            Economics of power supply economy
+            Electric railroads
+            Emergency modes and electrocorrosion processes in traction power supply
+            Electromagnetic compatibility on electric railroads
+            Traction electric machines and transformers
+            Electrical safety in power supply devices
+            Accounting, finance, audit in electric power supply
+            Microprocessor information and management systems in power supply industry
+            Basics of automated design
+            Speed and high-speed traffic on electrified railroads
+            Systems of automated design (CAD) and construction of power complexes
             """;
 
     public String[] getSubjectsArray() {
