@@ -804,6 +804,38 @@ public class TranslationDB {
             Basics of automated design
             Speed and high-speed traffic on electrified railroads
             Systems of automated design (CAD) and construction of power complexes
+            Methods of management decision making
+            Information technologies in management
+            Management theory
+            Accounting and analysis
+            Human resources management
+            Corporate social responsibility
+            Leadership
+            Business planning
+            Investment analysis
+            Mass service theory
+            Economics of air transportation
+            Basics of aircraft flight operation
+            Basics of technical operation and organization of aircraft maintenance and repair
+            Organization of air transport operations
+            State support of safety of air transport operation
+            Aircraft flight safety management system
+            Commercial activity in air transport
+            Operational management of aviation enterprises
+            Economic mechanism of aviation enterprises
+            Quality management of aviation enterprises
+            Innovative management of air transportation
+            History of civil aviation
+            Professional-oriented English language
+            History of economic doctrines
+            Economic and mathematical methods in management
+            Information technologies in air transportation production
+            Air law
+            State regulation of activity of economic entities of air transport
+            Risk management of aviation enterprises
+            Analysis of production and economic activity of aviation enterprises
+            Organization of airspace use and air traffic services
+            Labor organization of aviation personnel
             """;
 
     public String[] getSubjectsArray() {
