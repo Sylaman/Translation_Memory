@@ -836,6 +836,50 @@ public class TranslationDB {
             Analysis of production and economic activity of aviation enterprises
             Organization of airspace use and air traffic services
             Labor organization of aviation personnel
+            Psychology of business communication
+            Basics of computer linguistics
+            History of language and introduction to special philology
+            Practical grammar of the English language
+            Practical phonetics of the English language
+            Practical course of the English language
+            Practical course of the German language
+            Linguo-country studies
+            German studies
+            Foreign literature
+            Psycholinguistics
+            Practical translation course (English)
+            Practical translation course (German)
+            Practical course in the culture of speech communication (English)
+            Practical course in the culture of speech communication (German)
+            Comparative typology of the English and Russian languages
+            Special course in philology
+            Special course in translation
+            Security of information resources
+            Introduction to the specialty
+            Computers, systems and networks
+            Additional chapters of computer science
+            Identification of dynamic objects
+            Information networks and communications
+            Linear algebra and analytical geometry
+            Mathematical fundamentals of systems theory
+            Metrology and measurement technology
+            Microprocessor automation devices
+            Modeling of control systems
+            Basics of personal and communicative culture
+            Programming
+            Psychology and technologies of social interaction
+            System software
+            Systems of technological processes automation
+            Specialized controllers
+            Specialized packages for automated systems design
+            Special chapters of mathematics
+            Special chapters of physics
+            Circuit engineering
+            Automatic control theory
+            Information theory, coding and data transmission
+            Signal theory
+            Technical means of automation and control
+            Object interface devices
             """;
 
     public String[] getSubjectsArray() {
