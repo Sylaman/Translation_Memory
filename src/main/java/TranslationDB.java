@@ -880,6 +880,76 @@ public class TranslationDB {
             Signal theory
             Technical means of automation and control
             Object interface devices
+            First aid and patient care
+            Economics and law
+            IT and e-health
+            Medical rehabilitation
+            Anesthesiology, intensive care
+            Emergency medicine
+            Polyclinic business
+            Medical embryology
+            Political history
+            Cultural history
+            Military training
+            Physical therapy, medical supervision
+            Medical biology and genetics
+            Medical and biological physics
+            Histology
+            Autopsy course
+            General hygiene with ecology, military hygiene
+            Social hygiene and health care organization
+            Therapy. General nursing
+            Polyclinic training
+            Tuberculosis
+            Radiation therapy
+            Surgery. General nursing
+            Operative surgery, topographic anatomy
+            Traumatology
+            Military field surgery
+            Infectious diseases with epidemiology
+            Neurology, neurosurgery, medical genetics
+            Psychiatry
+            Medical psychology
+            Obstetrics
+            Gynecology
+            Economics, sociology
+            Political science, jurisprudence
+            Basics of psychology and pedagogy
+            Copyright law
+            Fundamentals of spiritual and moral culture
+            History of art
+            Academic drawing
+            Academic painting
+            Academic sculpture and plastic modeling
+            Technical drawing
+            Color science and coloristics
+            History of design, science and technology
+            Plastic anatomy
+            Basics of project graphics
+            Propaedeutics
+            Designing
+            Basics of production skills
+            Multimedia technologies
+            Photographics
+            Font
+            Illustration
+            Graphic techniques
+            Printing technologies
+            History of graphic design
+            Communications in design
+            Layout
+            Trend analysis
+            Theoretical informatics
+            Methodology of scientific research
+            Basics of labor law
+            Systems design theory
+            Security of computing systems and networks
+            Architecture and hardware of computing networks
+            Network operating systems
+            Administration of computing networks
+            Information security in networks
+            Programming languages
+            Free software
             """;
 
     public String[] getSubjectsArray() {
