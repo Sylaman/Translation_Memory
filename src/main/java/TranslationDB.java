@@ -950,6 +950,43 @@ public class TranslationDB {
             Information security in networks
             Programming languages
             Free software
+            Sociology and social psychology
+            Mathematical modeling
+            Physical basics of measurement
+            Descriptive geometry, engineering graphics
+            Electrical machines and apparatuses
+            Electronics and microprocessor technology
+            Technological processes of mechanical engineering production
+            Accuracy standardization
+            Hydraulics and hydraulic drive
+            Methods of engineering creativity
+            Forming processes and tools
+            Control of processes and objects in mechanical engineering
+            Hardware and software of control systems
+            Mechanical engineering technology
+            Equipment of mechanical engineering production
+            Information-measuring technology of control systems
+            Drives of automatic technological equipment
+            Design of automation means for technological equipment
+            Execution of graduate work
+            Computer technologies in science and education
+            Technics of experiment
+            Automation and control systems
+            Design of control systems
+            Automated electric drive
+            Hydropneumatic drive and hydropneumatic automation
+            Mathematical basics of control theory
+            Automation of production processes
+            Computer-aided design and computer-aided manufacturing systems
+            Program control of machine tools and complexes
+            Philosophical questions of natural science and technology
+            Methodology of scientific creativity
+            History and methodology of science
+            Design and research of automation equipment
+            GAP design and research
+            Modern problems of mechanical engineering
+            Basics of pedagogy and psychology
+            Scientific research work
             """;
 
     public String[] getSubjectsArray() {
