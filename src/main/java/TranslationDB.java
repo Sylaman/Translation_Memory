@@ -987,6 +987,57 @@ public class TranslationDB {
             Modern problems of mechanical engineering
             Basics of pedagogy and psychology
             Scientific research work
+            Political economy and history of economic doctrines
+            Theoretical basics of progressive technology
+            Computer and programming
+            Basics of construction and design
+            Applied mathematics
+            Economics of nature resources management
+            Ergonomics and design
+            Industrial materials
+            Economic efficiency of new equipment
+            Basics of economic theory
+            Economics of mechanical engineering industry
+            Technology of mechanical engineering industry
+            Economic and mathematical methods and models
+            Sociology and psychology of management
+            Qualimetry
+            Management theory
+            Labour and wage management
+            Macroeconomics
+            Organization of mechanical engineering production
+            Basics of entrepreneurial activity
+            Innovation and production potential
+            Fundamentals of law
+            Economics and sociology of labor
+            History of labor and entrepreneurship
+            Ethics of business relations
+            Innovative management in personnel work
+            Administrative systems and office technologies
+            Human resources management at the enterprise
+            Production management
+            Economic analysis of enterprise activity
+            Elective disciplines
+            Management of social development of the enterprise
+            Personality management
+            Conflictology
+            Employment management
+            Motivation of labor activity
+            Special elective course (basics of economic theory)
+            Chemical sensor design: from fundamentals to practical applications
+            Crystallochemistry
+            Materials chemistry
+            Introduction to solid state physics
+            Electrochemistry: fundamentals and applications
+            Applied materials and their use
+            Materials research methods
+            Crystal structure research methods
+            Marketing and commercialization for entrepreneurs
+            Key skills for innovators: critical and creative thinking, communication and collaboration
+            Blockchain entrepreneurship and innovation
+            English language for dissertation
+            Research seminar for the final qualification work
+            Research seminar
             """;
 
     public String[] getSubjectsArray() {
