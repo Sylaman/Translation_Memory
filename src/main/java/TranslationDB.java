@@ -498,561 +498,581 @@ public class TranslationDB {
             Materials science. Technology of structural materials
             General chemical technology
             Chemical reactors
-            """ +
-            """
-                    Economics and organization of oil and gas processing
-                    History of oil and gas industry
-                    Business etiquette and culture of communication
-                    Professional foreign language
-                    Probability theory and mathematical statistics
-                    General-purpose software systems
-                    Oil and gas chemistry
-                    Synthetic methods of organic chemistry
-                    Computational mathematics
-                    Basics of biotechnology
-                    Basics of nanochemistry
-                    Quality and certification of petroleum products
-                    Oil refining technology
-                    Design and equipment of oil and gas processing plants
-                    Gas processing
-                    Basics of lubricant production
-                    Fundamentals of petrochemical synthesis
-                    Fundamentals of oil and gas production
-                    Technical thermodynamics and heat engineering
-                    Basics of hydraulics
-                    Modeling and control of technological processes of oil and gas processing
-                    Professional oriented Russian language
-                    Reagents for drilling and well maintenance
-                    Methods of oil and gas production intensification
-                    Production of high-molecular compounds
-                    Technology of petrochemical synthesis
-                    Training scientific and research work of students
-                    Reagents for combating complications in oil and gas production processes
-                    Industrial preparation of oil, gas and water
-                    Physical education (elective discipline)
-                    Foreign language (English)
-                    Higher mathematics
-                    Probability theory and mathematics
-                    Social and economic statistics
-                    Customs statistics
-                    Internet technologies
-                    Economic geography
-                    Economic and mathematical methods
-                    Customs information technologies
-                    Constitutional law
-                    Declaration of goods and vehicles
-                    Fundamentals of national security
-                    Business law
-                    Property management
-                    Supervision of security and customs authorities
-                    State regulation of economy
-                    Finance, money circulation and credit
-                    Economic potential of the customs territory of Russia
-                    World economy and foreign economic activity
-                    Customs economics
-                    Taxes and customs payments
-                    Currency regulation and currency control
-                    Civil law
-                    Civil and arbitration procedure
-                    Criminal law
-                    Management in customs authorities
-                    Organization of customs control of goods and vehicles
-                    Commodity nomenclature of foreign economic activity
-                    Customs and tariff regulation of foreign economic activity and customs value
-                    Customs administration
-                    History of customs business and customs policy of Russia
-                    Commodity science and expertise in customs business
-                    Natural resources management
-                    Tax system
-                    Accounting and audit
-                    Analysis and diagnostics of economic activity
-                    Management restructuring
-                    Organization of struggle against economic crimes
-                    Risk management
-                    Business valuation
-                    Information security
-                    Financial management
-                    Economic security
-                    Prevention of economic offenses
-                    System analysis
-                    Health economics
-                    Pathological anatomy, clinical pathological anatomy
-                    Medical rehabilitation, medical and social expertise
-                    Disaster medicine
-                    Faculty therapy
-                    Hospital therapy
-                    General surgery
-                    Faculty surgery
-                    Hospital surgery
-                    Pediatric surgery
-                    Military field surgery, military field therapy
-                    Fundamental medicine
-                    Non-infectious epidemiology
-                    Culture of Russian speech
-                    Sociology, political science
-                    Fundamentals of molecular medicine
-                    Selected issues of tuberculosis
-                    Palliative therapy
-                    Elective courses in physical education (elective discipline)
-                    Foreign language 1 (English)
-                    History of the Don Cossackdom
-                    Foreign language 3 (German)
-                    Philosophy of the East: traditions and modernity
-                    History of entrepreneurship in Russia
-                    Mathematics and Informatics (mathematics)
-                    Mathematics and informatics (Informatics)
-                    Concepts of modern natural science (physics and chemistry)
-                    Ecological management in tourism
-                    Fundamentals of the theory of mass service
-                    Human being and his needs (service science)
-                    Service activity
-                    Psychodiagnostics
-                    Psychological practice
-                    Professional ethics and etiquette
-                    Valeology
-                    Foreign language 2 (Spanish)
-                    Speech communication
-                    World culture and art
-                    Economics and entrepreneurship in social and cultural services and tourism
-                    Management in social and cultural service and tourism
-                    Marketing in social and cultural service and tourism
-                    Information technologies in social and cultural service and tourism
-                    Organizational engineering
-                    Methods of scientific research
-                    Standardization and certification of social and cultural and tourist services
-                    Regional studies
-                    Geography of tourism in the Russian Federation and CIS
-                    Recreational resource science
-                    Currency and financial operations in social and cultural service and tourism
-                    Technique and technology of social and cultural service and tourism
-                    Legal support of social and cultural service and tourism
-                    Advertising in operations in social-cultural service and tourism
-                    Public relations
-                    Documentation management support of social and cultural service and tourism
-                    Innovations in social and cultural service and tourism
-                    Introduction to tourism
-                    Organization of tourist enterprise activity
-                    Organization of service in tourist and hotel complexes
-                    Theory and methodology of sports and self-organized tourism
-                    Organization of social tourism
-                    Excursion studies
-                    Organization of catering in resort and hotel complexes
-                    Transport provision in the tourism industry
-                    Organization of outbound tourism
-                    Animation in tourism activity
-                    Taxes and taxation
-                    Medical basics in the tourism industry
-                    Country studies
-                    Accounting and audit in tourism and hotel economy
-                    Museum studies
-                    Exposition and exhibition work
-                    Tourism securities
-                    Management of social-cultural sector and tourism
-                    Russian and foreign literature
-                    Tourist formalities
-                    Sanitary and hygienic basics of restaurant and hotel service
-                    Basics of price formation in the tourist sector
-                    Fundamentals of management
-                    History of management
-                    Organisation theory
-                    World economics
-                    Finance and credit
-                    Statistics
-                    Accounting
-                    Organizational behaviour
-                    Economic law
-                    Economic history
-                    Ethics and culture of management
-                    Econometrics
-                    Analysis of financial and economic activity of the enterprise
-                    Documentary support of management
-                    Sociology of management
-                    Economics of enterprises
-                    Research of social-economic and political processes
-                    Strategic management
-                    Management systems research
-                    Managerial decisions
-                    Management information technologies
-                    History of the USSR (pre-Soviet period)
-                    History of the USSR of the Soviet period
-                    History of foreign countries
-                    History of philosophy
-                    History of the Communist Party of the Soviet Union
-                    Soviet law
-                    Higher mathematics and mathematical methods in management
-                    Mathematical logic
-                    Documentary science
-                    Computer science and basics of programming
-                    Documentology
-                    History of state institutions
-                    Political economy
-                    Documentary linguistics
-                    Technical film and photo documentation
-                    Technology and organization of document management
-                    History of ethical and aesthetic doctrines
-                    Archivology
-                    Theory and practice of management
-                    Ergonomics
-                    Management ethics
-                    Information support of management
-                    Information systems
-                    History of social and political doctrines
-                    Special course
-                    Special seminar
-                    Course work on documentology
-                    Course work on theory and practice of management
-                    Course work on the organization of document management
-                    Course work on information systems
-                    Course work on information support of management
-                    World history
-                    History of the Russian state and law
-                    Roman law
-                    Criminal law of Russia and foreign countries
-                    Criminal procedure of the Russian Federation and foreign countries
-                    Labor law of Russia and foreign countries
-                    Administrative law of Russia
-                    Administrative law of foreign countries
-                    International public law
-                    Civil law of Russia
-                    Civil and commercial law of foreign countries
-                    Civil procedure and arbitration of Russia
-                    Civil procedure and arbitration of foreign countries
-                    Financial law of Russia
-                    Financial law of foreign countries
-                    Law enforcement authorities in Russia
-                    Customs law of Russia
-                    International customs law and customs law of foreign countries
-                    Transport law of Russia and foreign countries
-                    International economic relations
-                    Basics of accounting and foreign trade statistics
-                    Public service
-                    History of international relations and foreign policy of Russia
-                    Legal regulation of foreign economic relations
-                    Insurance in the Russian Federation and foreign countries
-                    Business partnerships and societies
-                    Mathematics and informatics
-                    Basics of diplomatic service and practice
-                    English language (first)
-                    Legal categories and concepts in English
-                    Translation skills
-                    Civil defence
-                    Physical education
-                    Russian language stylistics and speech culture
-                    Ancient languages and cultures
-                    General linguistics
-                    History of linguistics
-                    History of language and introduction to special philology
-                    Theoretical phonetics
-                    Lexicology
-                    Theoretical grammar
-                    Fundamentals of 2nd language theory
-                    Introduction to the theory of intercultural communication
-                    Practical course of the first foreign language
-                    Practical course of the second foreign language
-                    History and culture of the target language countries
-                    History of literature of the target language countries
-                    Sociolinguistics
-                    American English language
-                    English-language literature of multiculturalism
-                    Delinquent culture of the USA and Great Britain
-                    British prose of the 21st century
-                    Statistical processing of linguistic texts
-                    Peculiarities of translating media texts
-                    Dictionaries and Internet resources in the translator's work
-                    English poetry in Russian translations
-                    Translation theory
-                    Practical course of translation (first language)
-                    Practical course of translation (second language)
-                    Practical course in the culture of speech communication (first language)
-                    Practical course in the culture of speech communication (second language)
-                    Corrective grammar course
-                    Culture of written speech
-                    Culture of business communication
-                    Peculiarities of legal translation
-                    Spanish language
-                    Mathematical modeling of systems and processes
-                    Basics of theoretical mechanics
-                    Computer graphics
-                    Simulation modeling
-                    Chemical current sources
-                    Descriptive geometry. Engineering graphics
-                    Mechanics. Applied mechanics
-                    Theoretical basics of electrical engineering
-                    Electronics
-                    Life safety (including life safety in emergency situations)\s
-                    Electrical machines and electric drive
-                    Theory of discrete devices of automatics and telemechanics
-                    Basics of technical diagnostics
-                    Basics of reliability theory
-                    Economics of transport
-                    Electric networks and power systems
-                    Theory of nonlinear circuits
-                    Theory of electric traction
-                    Railroad power supply
-                    Traction and transformer substations
-                    Automation of power supply system
-                    Relay protection
-                    Contact networks and power lines
-                    Construction, installation and operation of power supply devices
-                    Electronic equipment and converters in power supply
-                    Economics of power supply economy
-                    Electric railroads
-                    Emergency modes and electrocorrosion processes in traction power supply
-                    Electromagnetic compatibility on electric railroads
-                    Traction electric machines and transformers
-                    Electrical safety in power supply devices
-                    Accounting, finance, audit in electric power supply
-                    Microprocessor information and management systems in power supply industry
-                    Basics of automated design
-                    Speed and high-speed traffic on electrified railroads
-                    Systems of automated design (CAD) and construction of power complexes
-                    Methods of management decision making
-                    Information technologies in management
-                    Management theory
-                    Accounting and analysis
-                    Human resources management
-                    Corporate social responsibility
-                    Leadership
-                    Business planning
-                    Investment analysis
-                    Mass service theory
-                    Economics of air transportation
-                    Basics of aircraft flight operation
-                    Basics of technical operation and organization of aircraft maintenance and repair
-                    Organization of air transport operations
-                    State support of safety of air transport operation
-                    Aircraft flight safety management system
-                    Commercial activity in air transport
-                    Operational management of aviation enterprises
-                    Economic mechanism of aviation enterprises
-                    Quality management of aviation enterprises
-                    Innovative management of air transportation
-                    History of civil aviation
-                    Professional-oriented English language
-                    History of economic doctrines
-                    Economic and mathematical methods in management
-                    Information technologies in air transportation production
-                    Air law
-                    State regulation of activity of economic entities of air transport
-                    Risk management of aviation enterprises
-                    Analysis of production and economic activity of aviation enterprises
-                    Organization of airspace use and air traffic services
-                    Labor organization of aviation personnel
-                    Psychology of business communication
-                    Basics of computer linguistics
-                    History of language and introduction to special philology
-                    Practical grammar of the English language
-                    Practical phonetics of the English language
-                    Practical course of the English language
-                    Practical course of the German language
-                    Linguo-country studies
-                    German studies
-                    Foreign literature
-                    Psycholinguistics
-                    Practical translation course (English)
-                    Practical translation course (German)
-                    Practical course in the culture of speech communication (English)
-                    Practical course in the culture of speech communication (German)
-                    Comparative typology of the English and Russian languages
-                    Special course in philology
-                    Special course in translation
-                    Security of information resources
-                    Introduction to the specialty
-                    Computers, systems and networks
-                    Additional chapters of computer science
-                    Identification of dynamic objects
-                    Information networks and communications
-                    Linear algebra and analytical geometry
-                    Mathematical fundamentals of systems theory
-                    Metrology and measurement technology
-                    Microprocessor automation devices
-                    Modeling of control systems
-                    Basics of personal and communicative culture
-                    Programming
-                    Psychology and technologies of social interaction
-                    System software
-                    Systems of technological processes automation
-                    Specialized controllers
-                    Specialized packages for automated systems design
-                    Special chapters of mathematics
-                    Special chapters of physics
-                    Circuit engineering
-                    Automatic control theory
-                    Information theory, coding and data transmission
-                    Signal theory
-                    Technical means of automation and control
-                    Object interface devices
-                    First aid and patient care
-                    Economics and law
-                    IT and e-health
-                    Medical rehabilitation
-                    Anesthesiology, intensive care
-                    Emergency medicine
-                    Polyclinic business
-                    Medical embryology
-                    Political history
-                    Cultural history
-                    Military training
-                    Physical therapy, medical supervision
-                    Medical biology and genetics
-                    Medical and biological physics
-                    Histology
-                    Autopsy course
-                    General hygiene with ecology, military hygiene
-                    Social hygiene and health care organization
-                    """ +
-            """
-                    Therapy. General nursing
-                    Polyclinic training
-                    Tuberculosis
-                    Radiation therapy
-                    Surgery. General nursing
-                    Operative surgery, topographic anatomy
-                    Traumatology
-                    Military field surgery
-                    Infectious diseases with epidemiology
-                    Neurology, neurosurgery, medical genetics
-                    Psychiatry
-                    Medical psychology
-                    Obstetrics
-                    Gynecology
-                    Economics, sociology
-                    Political science, jurisprudence
-                    Basics of psychology and pedagogy
-                    Copyright law
-                    Fundamentals of spiritual and moral culture
-                    History of art
-                    Academic drawing
-                    Academic painting
-                    Academic sculpture and plastic modeling
-                    Technical drawing
-                    Color science and coloristics
-                    History of design, science and technology
-                    Plastic anatomy
-                    Basics of project graphics
-                    Propaedeutics
-                    Designing
-                    Basics of production skills
-                    Multimedia technologies
-                    Photographics
-                    Font
-                    Illustration
-                    Graphic techniques
-                    Printing technologies
-                    History of graphic design
-                    Communications in design
-                    Layout
-                    Trend analysis
-                    Theoretical informatics
-                    Methodology of scientific research
-                    Basics of labor law
-                    Systems design theory
-                    Security of computing systems and networks
-                    Architecture and hardware of computing networks
-                    Network operating systems
-                    Administration of computing networks
-                    Information security in networks
-                    Programming languages
-                    Free software
-                    Sociology and social psychology
-                    Mathematical modeling
-                    Physical basics of measurement
-                    Descriptive geometry, engineering graphics
-                    Electrical machines and apparatuses
-                    Electronics and microprocessor technology
-                    Technological processes of mechanical engineering production
-                    Accuracy standardization
-                    Hydraulics and hydraulic drive
-                    Methods of engineering creativity
-                    Forming processes and tools
-                    Control of processes and objects in mechanical engineering
-                    Hardware and software of control systems
-                    Mechanical engineering technology
-                    Equipment of mechanical engineering production
-                    Information-measuring technology of control systems
-                    Drives of automatic technological equipment
-                    Design of automation means for technological equipment
-                    Execution of graduate work
-                    Computer technologies in science and education
-                    Technics of experiment
-                    Automation and control systems
-                    Design of control systems
-                    Automated electric drive
-                    Hydropneumatic drive and hydropneumatic automation
-                    Mathematical basics of control theory
-                    Automation of production processes
-                    Computer-aided design and computer-aided manufacturing systems
-                    Program control of machine tools and complexes
-                    Philosophical questions of natural science and technology
-                    Methodology of scientific creativity
-                    History and methodology of science
-                    Design and research of automation equipment
-                    GAP design and research
-                    Modern problems of mechanical engineering
-                    Basics of pedagogy and psychology
-                    Scientific research work
-                    Political economy and history of economic doctrines
-                    Theoretical basics of progressive technology
-                    Computer and programming
-                    Basics of construction and design
-                    Applied mathematics
-                    Economics of nature resources management
-                    Ergonomics and design
-                    Industrial materials
-                    Economic efficiency of new equipment
-                    Basics of economic theory
-                    Economics of mechanical engineering industry
-                    Technology of mechanical engineering industry
-                    Economic and mathematical methods and models
-                    Sociology and psychology of management
-                    Qualimetry
-                    Management theory
-                    Labour and wage management
-                    Macroeconomics
-                    Organization of mechanical engineering production
-                    Basics of entrepreneurial activity
-                    Innovation and production potential
-                    Fundamentals of law
-                    Economics and sociology of labor
-                    History of labor and entrepreneurship
-                    Ethics of business relations
-                    Innovative management in personnel work
-                    Administrative systems and office technologies
-                    Human resources management at the enterprise
-                    Production management
-                    Economic analysis of enterprise activity
-                    Elective disciplines
-                    Management of social development of the enterprise
-                    Personality management
-                    Conflictology
-                    Employment management
-                    Motivation of labor activity
-                    Special elective course (basics of economic theory)
-                    Chemical sensor design: from fundamentals to practical applications
-                    Crystallochemistry
-                    Materials chemistry
-                    Introduction to solid state physics
-                    Electrochemistry: fundamentals and applications
-                    Applied materials and their use
-                    Materials research methods
-                    Crystal structure research methods
-                    Marketing and commercialization for entrepreneurs
-                    Key skills for innovators: critical and creative thinking, communication and collaboration
-                    Blockchain entrepreneurship and innovation
-                    English language for dissertation
-                    Research seminar for the final qualification work
-                    Research seminar
-                    Russian language
-                    Genetics
-                    Evidence-based medicine: principles and methodology
-                    Emergency cardiology
-                    Transplantology
-                    Written professional communication in foreign language
-                    Oral professional communication in foreign language
-                    Ultrasound diagnostics
-                    Computer and magnetic resonance tomography
-                    Medical field of international humanitarian law
-                    """;
+            Economics and organization of oil and gas processing
+            History of oil and gas industry
+            Business etiquette and culture of communication
+            Professional foreign language
+            Probability theory and mathematical statistics
+            General-purpose software systems
+            Oil and gas chemistry
+            Synthetic methods of organic chemistry
+            Computational mathematics
+            Basics of biotechnology
+            Basics of nanochemistry
+            Quality and certification of petroleum products
+            Oil refining technology
+            Design and equipment of oil and gas processing plants
+            Gas processing
+            Basics of lubricant production
+            Fundamentals of petrochemical synthesis
+            Fundamentals of oil and gas production
+            Technical thermodynamics and heat engineering
+            Basics of hydraulics
+            Modeling and control of technological processes of oil and gas processing
+            Professional oriented Russian language
+            Reagents for drilling and well maintenance
+            Methods of oil and gas production intensification
+            Production of high-molecular compounds
+            Technology of petrochemical synthesis
+            Training scientific and research work of students
+            Reagents for combating complications in oil and gas production processes
+            Industrial preparation of oil, gas and water
+            Physical education (elective discipline)
+            Foreign language (English)
+            Higher mathematics
+            Probability theory and mathematics
+            Social and economic statistics
+            Customs statistics
+            Internet technologies
+            Economic geography
+            Economic and mathematical methods
+            Customs information technologies
+            Constitutional law
+            Declaration of goods and vehicles
+            Fundamentals of national security
+            Business law
+            Property management
+            Supervision of security and customs authorities
+            State regulation of economy
+            Finance, money circulation and credit
+            Economic potential of the customs territory of Russia
+            World economy and foreign economic activity
+            Customs economics
+            Taxes and customs payments
+            Currency regulation and currency control
+            Civil law
+            Civil and arbitration procedure
+            Criminal law
+            Management in customs authorities
+            Organization of customs control of goods and vehicles
+            Commodity nomenclature of foreign economic activity
+            Customs and tariff regulation of foreign economic activity and customs value
+            Customs administration
+            History of customs business and customs policy of Russia
+            Commodity science and expertise in customs business
+            Natural resources management
+            Tax system
+            Accounting and audit
+            Analysis and diagnostics of economic activity
+            Management restructuring
+            Organization of struggle against economic crimes
+            Risk management
+            Business valuation
+            Information security
+            Financial management
+            Economic security
+            Prevention of economic offenses
+            System analysis
+            Health economics
+            Pathological anatomy, clinical pathological anatomy
+            Medical rehabilitation, medical and social expertise
+            Disaster medicine
+            Faculty therapy
+            Hospital therapy
+            General surgery
+            Faculty surgery
+            Hospital surgery
+            Pediatric surgery
+            Military field surgery, military field therapy
+            Fundamental medicine
+            Non-infectious epidemiology
+            Culture of Russian speech
+            Sociology, political science
+            Fundamentals of molecular medicine
+            Selected issues of tuberculosis
+            Palliative therapy
+            Elective courses in physical education (elective discipline)
+            Foreign language 1 (English)
+            History of the Don Cossackdom
+            Foreign language 3 (German)
+            Philosophy of the East: traditions and modernity
+            History of entrepreneurship in Russia
+            Mathematics and Informatics (mathematics)
+            Mathematics and informatics (Informatics)
+            Concepts of modern natural science (physics and chemistry)
+            Ecological management in tourism
+            Fundamentals of the theory of mass service
+            Human being and his needs (service science)
+            Service activity
+            Psychodiagnostics
+            Psychological practice
+            Professional ethics and etiquette
+            Valeology
+            Foreign language 2 (Spanish)
+            Speech communication
+            World culture and art
+            Economics and entrepreneurship in social and cultural services and tourism
+            Management in social and cultural service and tourism
+            Marketing in social and cultural service and tourism
+            Information technologies in social and cultural service and tourism
+            Organizational engineering
+            Methods of scientific research
+            Standardization and certification of social and cultural and tourist services
+            Regional studies
+            Geography of tourism in the Russian Federation and CIS
+            Recreational resource science
+            Currency and financial operations in social and cultural service and tourism
+            Technique and technology of social and cultural service and tourism
+            Legal support of social and cultural service and tourism
+            Advertising in operations in social-cultural service and tourism
+            Public relations
+            Documentation management support of social and cultural service and tourism
+            Innovations in social and cultural service and tourism
+            Introduction to tourism
+            Organization of tourist enterprise activity
+            Organization of service in tourist and hotel complexes
+            Theory and methodology of sports and self-organized tourism
+            Organization of social tourism
+            Excursion studies
+            Organization of catering in resort and hotel complexes
+            Transport provision in the tourism industry
+            Organization of outbound tourism
+            Animation in tourism activity
+            Taxes and taxation
+            Medical basics in the tourism industry
+            Country studies
+            Accounting and audit in tourism and hotel economy
+            Museum studies
+            Exposition and exhibition work
+            Tourism securities
+            Management of social-cultural sector and tourism
+            Russian and foreign literature
+            Tourist formalities
+            Sanitary and hygienic basics of restaurant and hotel service
+            Basics of price formation in the tourist sector
+            Fundamentals of management
+            History of management
+            Organization theory
+            World economics
+            Finance and credit
+            Statistics
+            Accounting
+            Organizational behavior
+            Economic law
+            Economic history
+            Ethics and culture of management
+            Econometrics
+            Analysis of financial and economic activity of the enterprise
+            Documentary support of management
+            Sociology of management
+            Economics of enterprises
+            Research of social-economic and political processes
+            Strategic management
+            Management systems research
+            Managerial decisions
+            Management information technologies
+            History of the USSR (pre-Soviet period)
+            History of the USSR of the Soviet period
+            History of foreign countries
+            History of philosophy
+            History of the Communist Party of the Soviet Union
+            Soviet law
+            Higher mathematics and mathematical methods in management
+            Mathematical logic
+            Documentary science
+            Computer science and basics of programming
+            Documentology
+            History of state institutions
+            Political economy
+            Documentary linguistics
+            Technical film and photo documentation
+            Technology and organization of document management
+            History of ethical and aesthetic doctrines
+            Archivology
+            Theory and practice of management
+            Ergonomics
+            Management ethics
+            Information support of management
+            Information systems
+            History of social and political doctrines
+            Special course
+            Special seminar
+            Course work on documentology
+            Course work on theory and practice of management
+            Course work on the organization of document management
+            Course work on information systems
+            Course work on information support of management
+            World history
+            History of the Russian state and law
+            Roman law
+            Criminal law of Russia and foreign countries
+            Criminal procedure of the Russian Federation and foreign countries
+            Labor law of Russia and foreign countries
+            Administrative law of Russia
+            Administrative law of foreign countries
+            International public law
+            Civil law of Russia
+            Civil and commercial law of foreign countries
+            Civil procedure and arbitration of Russia
+            Civil procedure and arbitration of foreign countries
+            Financial law of Russia
+            Financial law of foreign countries
+            Law enforcement authorities in Russia
+            Customs law of Russia
+            International customs law and customs law of foreign countries
+            Transport law of Russia and foreign countries
+            International economic relations
+            Basics of accounting and foreign trade statistics
+            Public service
+            History of international relations and foreign policy of Russia
+            Legal regulation of foreign economic relations
+            Insurance in the Russian Federation and foreign countries
+            Business partnerships and societies
+            Mathematics and informatics
+            Basics of diplomatic service and practice
+            English language (first)
+            Legal categories and concepts in English
+            Translation skills
+            Civil defence
+            Physical education
+            Russian language stylistics and speech culture
+            Ancient languages and cultures
+            General linguistics
+            History of linguistics
+            History of language and introduction to special philology
+            Theoretical phonetics
+            Lexicology
+            Theoretical grammar
+            Fundamentals of 2nd language theory
+            Introduction to the theory of intercultural communication
+            Practical course of the first foreign language
+            Practical course of the second foreign language
+            History and culture of the target language countries
+            History of literature of the target language countries
+            Sociolinguistics
+            American English language
+            English-language literature of multiculturalism
+            Delinquent culture of the USA and Great Britain
+            British prose of the 21st century
+            Statistical processing of linguistic texts
+            Peculiarities of translating media texts
+            Dictionaries and Internet resources in the translator's work
+            English poetry in Russian translations
+            Translation theory
+            Practical course of translation (first language)
+            Practical course of translation (second language)
+            Practical course in the culture of speech communication (first language)
+            Practical course in the culture of speech communication (second language)
+            Corrective grammar course
+            Culture of written speech
+            Culture of business communication
+            Peculiarities of legal translation
+            Spanish language
+            Mathematical modeling of systems and processes
+            Basics of theoretical mechanics
+            Computer graphics
+            Simulation modeling
+            Chemical current sources
+            Descriptive geometry. Engineering graphics
+            Mechanics. Applied mechanics
+            Theoretical basics of electrical engineering
+            Electronics
+            Life safety (including life safety in emergency situations)s
+            Electrical machines and electric drive
+            Theory of discrete devices of automatics and telemechanics
+            Basics of technical diagnostics
+            Basics of reliability theory
+            Economics of transport
+            Electric networks and power systems
+            Theory of nonlinear circuits
+            Theory of electric traction
+            Railroad power supply
+            Traction and transformer substations
+            Automation of power supply system
+            Relay protection
+            Contact networks and power lines
+            Construction, installation and operation of power supply devices
+            Electronic equipment and converters in power supply
+            Economics of power supply economy
+            Electric railroads
+            Emergency modes and electrocorrosion processes in traction power supply
+            Electromagnetic compatibility on electric railroads
+            Traction electric machines and transformers
+            Electrical safety in power supply devices
+            Accounting, finance, audit in electric power supply
+            Microprocessor information and management systems in power supply industry
+            Basics of automated design
+            Speed and high-speed traffic on electrified railroads
+            Systems of automated design (CAD) and construction of power complexes
+            Methods of management decision making
+            Information technologies in management
+            Management theory
+            Accounting and analysis
+            Human resources management
+            Corporate social responsibility
+            Leadership
+            Business planning
+            Investment analysis
+            Mass service theory
+            Economics of air transportation
+            Basics of aircraft flight operation
+            Basics of technical operation and organization of aircraft maintenance and repair
+            Organization of air transport operations
+            State support of safety of air transport operation
+            Aircraft flight safety management system
+            Commercial activity in air transport
+            Operational management of aviation enterprises
+            Economic mechanism of aviation enterprises
+            Quality management of aviation enterprises
+            Innovative management of air transportation
+            History of civil aviation
+            Professional-oriented English language
+            History of economic doctrines
+            Economic and mathematical methods in management
+            Information technologies in air transportation production
+            Air law
+            State regulation of activity of economic entities of air transport
+            Risk management of aviation enterprises
+            Analysis of production and economic activity of aviation enterprises
+            Organization of airspace use and air traffic services
+            Labor organization of aviation personnel
+            Psychology of business communication
+            Basics of computer linguistics
+            History of language and introduction to special philology
+            Practical grammar of the English language
+            Practical phonetics of the English language
+            Practical course of the English language
+            Practical course of the German language
+            Linguo-country studies
+            German studies
+            Foreign literature
+            Psycholinguistics
+            Practical translation course (English)
+            Practical translation course (German)
+            Practical course in the culture of speech communication (English)
+            Practical course in the culture of speech communication (German)
+            Comparative typology of the English and Russian languages
+            Special course in philology
+            Special course in translation
+            Security of information resources
+            Introduction to the specialty
+            Computers, systems and networks
+            Additional chapters of computer science
+            Identification of dynamic objects
+            Information networks and communications
+            Linear algebra and analytical geometry
+            Mathematical fundamentals of systems theory
+            Metrology and measurement technology
+            Microprocessor automation devices
+            Modeling of control systems
+            Basics of personal and communicative culture
+            Programming
+            Psychology and technologies of social interaction
+            System software
+            Systems of technological processes automation
+            Specialized controllers
+            Specialized packages for automated systems design
+            Special chapters of mathematics
+            Special chapters of physics
+            Circuit engineering
+            Automatic control theory
+            Information theory, coding and data transmission
+            Signal theory
+            Technical means of automation and control
+            Object interface devices
+            First aid and patient care
+            Economics and law
+            IT and e-health
+            Medical rehabilitation
+            Anesthesiology, intensive care
+            Emergency medicine
+            Polyclinic business
+            Medical embryology
+            Political history
+            Cultural history
+            Military training
+            Physical therapy, medical supervision
+            Medical biology and genetics
+            Medical and biological physics
+            Histology
+            Autopsy course
+            General hygiene with ecology, military hygiene
+            Social hygiene and health care organization
+            Therapy. General nursing
+            Polyclinic training
+            Tuberculosis
+            Radiation therapy
+            Surgery. General nursing
+            Operative surgery, topographic anatomy
+            Traumatology
+            Military field surgery
+            Infectious diseases with epidemiology
+            Neurology, neurosurgery, medical genetics
+            Psychiatry
+            Medical psychology
+            Obstetrics
+            Gynecology
+            Economics, sociology
+            Political science, jurisprudence
+            Basics of psychology and pedagogy
+            Copyright law
+            Fundamentals of spiritual and moral culture
+            History of art
+            Academic drawing
+            Academic painting
+            Academic sculpture and plastic modeling
+            Technical drawing
+            Color science and coloristics
+            History of design, science and technology
+            Plastic anatomy
+            Basics of project graphics
+            Propaedeutics
+            Designing
+            Basics of production skills
+            Multimedia technologies
+            Photographics
+            Font
+            Illustration
+            Graphic techniques
+            Printing technologies
+            History of graphic design
+            Communications in design
+            Layout
+            Trend analysis
+            Theoretical informatics
+            Methodology of scientific research
+            Basics of labor law
+            Systems design theory
+            Security of computing systems and networks
+            Architecture and hardware of computing networks
+            Network operating systems
+            Administration of computing networks
+            Information security in networks
+            Programming languages
+            Free software
+            Sociology and social psychology
+            Mathematical modeling
+            Physical basics of measurement
+            Descriptive geometry, engineering graphics
+            Electrical machines and apparatuses
+            Electronics and microprocessor technology
+            Technological processes of mechanical engineering production
+            Accuracy standardization
+            Hydraulics and hydraulic drive
+            Methods of engineering creativity
+            Forming processes and tools
+            Control of processes and objects in mechanical engineering
+            Hardware and software of control systems
+            Mechanical engineering technology
+            Equipment of mechanical engineering production
+            Information-measuring technology of control systems
+            Drives of automatic technological equipment
+            Design of automation means for technological equipment
+            Execution of graduate work
+            Computer technologies in science and education
+            Technics of experiment
+            Automation and control systems
+            Design of control systems
+            Automated electric drive
+            Hydropneumatic drive and hydropneumatic automation
+            Mathematical basics of control theory
+            Automation of production processes
+            Computer-aided design and computer-aided manufacturing systems
+            Program control of machine tools and complexes
+            Philosophical questions of natural science and technology
+            Methodology of scientific creativity
+            History and methodology of science
+            Design and research of automation equipment
+            GAP design and research
+            Modern problems of mechanical engineering
+            Basics of pedagogy and psychology
+            Scientific research work
+            Political economy and history of economic doctrines
+            Theoretical basics of progressive technology
+            Computer and programming
+            Basics of construction and design
+            Applied mathematics
+            Economics of nature resources management
+            Ergonomics and design
+            Government and business protocol
+            Modern information technologies
+            Foreign language (French)
+            International relations and world politics
+            International monetary and credit relations
+            International transportation operations and logistics
+            Innovation management
+            Accounting and analysis
+            Digital information technologies in management
+            International commercial operations
+            Brand management
+            Conjuncture
+            Management of foreign economic activity
+            Exchange business
+            International management
+            Financial mathematics
+            History of the Russian entrepreneurship
+            State and municipal management
+            International stock and currency exchanges
+            Advertising
+            Fundamentals of banking
+            Project management
+            Internet-marketing
+            Cross-cultural management
+            Industrial materials
+            Economic efficiency of new equipment
+            Basics of economic theory
+            Economics of mechanical engineering industry
+            Technology of mechanical engineering industry
+            Economic and mathematical methods and models
+            Sociology and psychology of management
+            Qualimetry
+            Management theory
+            Labour and wage management
+            Macroeconomics
+            Organization of mechanical engineering production
+            Basics of entrepreneurial activity
+            Innovation and production potential
+            Fundamentals of law
+            Economics and sociology of labor
+            History of labor and entrepreneurship
+            Ethics of business relations
+            Innovative management in personnel work
+            Administrative systems and office technologies
+            Human resources management at the enterprise
+            Production management
+            Economic analysis of enterprise activity
+            Elective disciplines
+            Management of social development of the enterprise
+            Personality management
+            Conflictology
+            Employment management
+            Motivation of labor activity
+            Special elective course (basics of economic theory)
+            Chemical sensor design: from fundamentals to practical applications
+            Crystallochemistry
+            Materials chemistry
+            Introduction to solid state physics
+            Electrochemistry: fundamentals and applications
+            Applied materials and their use
+            Materials research methods
+            Crystal structure research methods
+            Marketing and commercialization for entrepreneurs
+            Key skills for innovators: critical and creative thinking, communication and collaboration
+            Blockchain entrepreneurship and innovation
+            English language for dissertation
+            Research seminar for the final qualification work
+            Research seminar
+            Russian language
+            Genetics
+            Evidence-based medicine: principles and methodology
+            Emergency cardiology
+            Transplantology
+            Written professional communication in foreign language
+            Oral professional communication in foreign language
+            Ultrasound diagnostics
+            Computer and magnetic resonance tomography
+            Medical field of international humanitarian law
+            """;
 
     public String[] getSubjectsArray() {
         return subjects.split("\n");
