@@ -1,6 +1,9 @@
+import java.util.ArrayList;
+import java.util.Arrays;
+
 public class TranslationDB {
 
-    String subjects = """
+    String subjectsFirstThousand = """
             Philosophy
             Bioethics
             Psychology and pedagogy
@@ -997,6 +1000,9 @@ public class TranslationDB {
             Government and business protocol
             Modern information technologies
             Foreign language (French)
+            """;
+
+    String subjectsSecondThousand = """
             International relations and world politics
             International monetary and credit relations
             International transportation operations and logistics
@@ -1072,9 +1078,59 @@ public class TranslationDB {
             Ultrasound diagnostics
             Computer and magnetic resonance tomography
             Medical field of international humanitarian law
+            History (module)
+            History of Russia up to the twentieth century
+            History of Russia of the XX - XXI centuries.
+            General history
+            Information technologies in advertising and public relations
+            Basics of legal knowledge
+            Basics of communication theory
+            History of advertising
+            Advertising in World culture
+            Sociology of mass communications
+            Psychology of mass communications
+            Consumer behavior
+            Visual communications
+            Marketing basics
+            Marketing research and situation analysis
+            Basics of integrated communications
+            Speech communications
+            Stylistics and literary editing in advertising
+            Technologies of public relations and relations with state authorities
+            Theory and practice of public relations
+            Theory and practice of mass information
+            Basics of project activity
+            Copywriting
+            Planning, implementation of communication campaigns and events
+            Basics of branding
+            Economics of advertising activity
+            Theory and practice of negotiations
+            Physical education and sport (module)
+            Technology of advertising photography
+            Development and technology of production of advertising product: video advertising
+            Design in advertising
+            Creativity in advertising
+            Development and technology of production of advertising product: print advertising
+            Modern internet communications
+            Organization of advertising and public relations departments
+            Media planning
+            Advertising in industries and spheres of activity
+            Event communications
+            Naming
+            Outdoor and indoor advertising
+            Corporate identity
+            Communications in social networks
+            Project management in advertising
+            Imageology
+            Direct marketing
             """;
 
-    public String[] getSubjectsArray() {
-        return subjects.split("\n");
+    protected String[] getSubjectsArray() {
+        String[] array1 = subjectsFirstThousand.split("\n");
+        String[] array2 = subjectsSecondThousand.split("\n");
+        ArrayList<String> list = new ArrayList<>(Arrays.asList(array1));
+        list.addAll(Arrays.asList(array2));
+        String[] mergedArray = list.toArray(new String[0]);
+        return mergedArray;
     }
 }
