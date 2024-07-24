@@ -1123,6 +1123,31 @@ public class TranslationDB {
             Project management in advertising
             Imageology
             Direct marketing
+            Ethics of entrepreneurship
+            Finance
+            Accounting theory
+            Probability theory and mathematical statistics
+            Money, credit, banks
+            Economics of organizations
+            History of entrepreneurship
+            Information systems in economics
+            Financial accounting
+            Finances of enterprises
+            Theory of economic analysis
+            Management accounting
+            Financial reporting
+            Stock market
+            Insurance
+            Business communication
+            Accounting at small enterprises
+            Accounting in construction
+            Price formation
+            Laboratory workshop on accounting
+            Accounting in trade
+            Complex economic analysis of economic activity
+            Control and revision
+            Audit
+            Risk analysis and assessment
             """;
 
     protected String[] getSubjectsArray() {
@@ -1130,7 +1155,6 @@ public class TranslationDB {
         String[] array2 = subjectsSecondThousand.split("\n");
         ArrayList<String> list = new ArrayList<>(Arrays.asList(array1));
         list.addAll(Arrays.asList(array2));
-        String[] mergedArray = list.toArray(new String[0]);
-        return mergedArray;
+        return list.toArray(new String[0]);
     }
 }
