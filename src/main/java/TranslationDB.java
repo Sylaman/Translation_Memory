@@ -1169,6 +1169,20 @@ public class TranslationDB {
             Economics and production management
             Basics of technology of chemical and biochemical productions
             Mathematical modeling in chemical technology
+            Modern problems of chemical technology
+            History and methodology of chemical technology
+            Computer technologies in science and production
+            Philosophical questions of natural and technical sciences
+            Additional chapters of mathematics
+            Additional chapters of chemistry
+            Pedagogy and psychology
+            Modern oil and oil processing industry
+            Special chapters of chemical technology of fuels processing
+            Theoretical fundamentals of chemical technology of fuels and carbon materials
+            Modeling in chemical industry and calculation of reactors
+            Fundamentals of scientific research and design
+            Scientific research practice
+            Scientific pedagogical practice
             """;
 
     protected String[] getSubjectsArray() {
