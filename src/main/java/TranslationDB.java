@@ -1148,6 +1148,27 @@ public class TranslationDB {
             Control and revision
             Audit
             Risk analysis and assessment
+            General and inorganic chemistry
+            World and national culture
+            Analytical chemistry and physico-chemical methods of analysis
+            Mechanics
+            Art of business communication
+            Electrical engineering and electronics
+            Organic chemistry and chemistry of biologically active substances
+            Economics (basics of economic theory)
+            Technical chemistry, oil chemistry
+            Analytical chemistry and physico-chemical methods of analysis
+            Basics of market economy
+            History of development of oil and chemical industry
+            Ecological problems of the Republic of Bashkortostan
+            Materials science.Technology of structural materials
+            Surface phenomena and disperse systems
+            Design and equipment of organic synthesis and fuel production enterprises
+            National policy and interethnic relations
+            Kinetics and catalysis in industry
+            Economics and production management
+            Basics of technology of chemical and biochemical productions
+            Mathematical modeling in chemical technology
             """;
 
     protected String[] getSubjectsArray() {
