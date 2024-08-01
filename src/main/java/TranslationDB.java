@@ -1183,6 +1183,78 @@ public class TranslationDB {
             Fundamentals of scientific research and design
             Scientific research practice
             Scientific pedagogical practice
+            Professional ethics
+            History and theory of religion
+            Functional anatomy of the central nervous system
+            Neurophysiology
+            Workshop on neurophysiology
+            Modern concepts of natural science
+            Statistical methods and mathematical modeling
+            Psychology of extreme situations and states
+            Introduction to clinical psychology
+            General psychological workshop
+            Psychological supervision
+            Research methodology in psychology
+            Projective methods in clinical psychology
+            Workshop on psychodiagnostics
+            Methods of teaching psychology in higher school
+            Theories of personality in clinical psychology
+            Psychotherapy: theory and practice
+            Health psychology
+            Neuropsychology
+            Gender and sexuality psychology
+            Special psychology and correctional-developmental education
+            Mental developmental disorders in childhood
+            Clinical psychology in gerontology and geriatrics
+            Forensic psychological expertise
+            Psychopharmacology
+            Organizational psychology
+            Psychosomatics
+            Socio-psychological training
+            Negotiation training
+            Modern information technologies and computers in psychology
+            Family psychology
+            Psychological support in extreme professions
+            Thanatology and suicidology
+            Victimology
+            Family psychotherapy
+            Psychology of grief and loss
+            Psychological assistance to victims
+            Psychodiagnosis of crisis states from violence
+            Specialization training program
+            Rehabilitation of combatants
+            Physiology of GND and sensory systems
+            Psychological basics of rehabilitation
+            Sensitivity training
+            Workshop on pathopsychological diagnostics and expertise
+            Workshop on neuropsychological diagnostics
+            Workshop on psychotherapy and counseling
+            Workshop on psychosomatics
+            Psychology of deviant behavior
+            Workshop on pediatric pathopsychology
+            Methodological training
+            Neurotic and personality disorders
+            Pathopsychology
+            Elective courses on physical education and sport
+            Modern concepts of neuroontogenesis
+            Psychology of social work
+            Methodological problems of clinical psychology
+            Psychology of corporality
+            Fundamentals of psychogenetics
+            Clinic of internal diseases
+            Psychological prevention of addictive behavior
+            Scientific research work:
+            Practice on obtaining primary professional skills and abilities, including primary skills and abilities of scientific research activity of the 1st course
+            Practice on obtaining primary professional skills and abilities, including primary skills and abilities of scientific research activity of the 2nd course
+            Scientific research work of the 3rd course
+            Scientific research work of the 4th course
+            Scientific research work of the 5th course
+            Practice on obtaining professional skills and experience of professional activity 3rd course
+            Practice on obtaining professional skills and experience of professional activity of the 4th course
+            Practice on obtaining professional skills and experience of professional activity of the 5th course
+            Pedagogical practice of the 4th course
+            Pedagogical practice of the 5th yecoursear
+            Pre-graduation practice
             """;
 
     protected String[] getSubjectsArray() {
