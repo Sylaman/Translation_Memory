@@ -1253,8 +1253,35 @@ public class TranslationDB {
             Practice on obtaining professional skills and experience of professional activity of the 4th course
             Practice on obtaining professional skills and experience of professional activity of the 5th course
             Pedagogical practice of the 4th course
-            Pedagogical practice of the 5th yecoursear
+            Pedagogical practice of the 5th course
             Pre-graduation practice
+            Medical and biological physics, medical devices
+            Biology, ecology
+            Informatics, higher mathematics
+            Bioorganic chemistry
+            Psychology and pedagogical basics of doctor's activity
+            Propedeutics of internal diseases, nursing of patients
+            Pathological anatomy with sectional course
+            General surgery, anesthesiology, patient care
+            Radiation diagnostics and therapy
+            Hygiene with basic human ecology, hygiene of children and adolescents, military hygiene
+            Dermatovenerology, pediatric dermatovenerology
+            Propaedeutics of pediatric diseases, with courses on healthy child and general child care
+            Internal diseases, occupational diseases, endocrinology, military field therapy
+            Surgical diseases, traumatology, orthopedics, oncology, military field surgery
+            Obstetrics and gynecology, pediatric gynecology
+            Pediatric surgical diseases with orthopedics, intensive care and anesthesiology and general nursing care
+            Public health and healthcare, medical informatics
+            Neurology, neurosurgery, medical genetics, pediatric neurology
+            Infectious diseases, epidemiology and military epidemiology
+            Psychiatry, narcology, psychotherapy
+            Otorhinolaryngology, pediatric otorhinolaryngology
+            Phthisiopulmonology and pediatric tuberculosis
+            Pediatric infectious diseases
+            Pediatric diseases, endocrinology, general physiotherapy
+            Ophthalmology, pediatric ophthalmology
+            Physical therapy, medical supervision and physiotherapy
+            Polyclinic pediatrics
             """;
 
     protected String[] getSubjectsArray() {
