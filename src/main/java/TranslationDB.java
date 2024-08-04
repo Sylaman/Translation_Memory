@@ -1282,6 +1282,40 @@ public class TranslationDB {
             Ophthalmology, pediatric ophthalmology
             Physical therapy, medical supervision and physiotherapy
             Polyclinic pediatrics
+            Engineering calculations of physical and chemical properties of substances
+            Organic chemistry and basics of biochemistry
+            Chemistry of natural energy sources
+            Physical technology of fuel
+            Theoretical basics of chemical technology of fuels and carbon materials
+            Production of industrial catalysts
+            Chemical technology of fuels and carbon materials
+            Modeling in chemical technology and calculation of reactors
+            Educational research work of students
+            Oil and gas technology
+            History of world culture
+            History, culture of Bashkortostan
+            Ethics and moral norms
+            Mathematical methods in electrical engineering
+            Modeling of electric circuits and fields
+            Electrical machines
+            Electrical and electronic devices
+            Physical basics of electronics
+            Electrical equipment of industrial enterprises substations
+            Electric drive
+            Digital devices of electric drives control systems
+            Engineering and technology in industry
+            Electric drive theory
+            Elements of automation systems
+            Electrical networks and basics of power supply
+            Global problems of the modern time
+            Methods and tools of information collection and processing
+            Economics and organization of electric drives production
+            Control systems of electric drives
+            Relay protection of electric motors and power supply systems
+            Nature and ecology of Bashkortostan
+            Automated electric drive of typical production mechanisms on technological complexes
+            Operation and repair of electric machines and electric drives
+            Electrification and electric drive of industrial plants
             """;
 
     protected String[] getSubjectsArray() {
