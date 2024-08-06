@@ -1316,6 +1316,37 @@ public class TranslationDB {
             Automated electric drive of typical production mechanisms on technological complexes
             Operation and repair of electric machines and electric drives
             Electrification and electric drive of industrial plants
+            Literature
+            Social science
+            Geography
+            Fundamentals of life safety
+            Fundamentals of ethics (optional discipline)
+            Fundamentals of philosophy
+            Fundamentals of economics
+            Fundamentals of social science and political science
+            Ecological basics of nature management
+            Fundamentals of information theory
+            Operating systems and environments
+            Discrete mathematics
+            Fundamentals of algorithmization and programming
+            Architecture of computers and computer systems
+            Technical means of informatization
+            Computer modeling
+            Computer networks
+            Business management
+            Legal support of professional activity
+            Industry economics
+            Information tools for development of information technologies
+            Multimedia technologies
+            Subject-oriented software
+            Development and operation of information systems
+            Software product development technology
+            Publishing systems
+            Information technologies in cinematography
+            Modern multimedia technologies
+            Entrepreneurship and small business
+            Fundamentals of cinematography (optional discipline)
+            Crisis management (optional discipline)
             """;
 
     protected String[] getSubjectsArray() {
