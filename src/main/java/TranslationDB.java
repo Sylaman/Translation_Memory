@@ -1347,6 +1347,55 @@ public class TranslationDB {
             Entrepreneurship and small business
             Fundamentals of cinematography (optional discipline)
             Crisis management (optional discipline)
+            Social skills training
+            Pedagogical psychotechnique
+            Foreign language. Translation of professional literature
+            Mathematical statistics
+            Child and adolescent psychiatry
+            General psychology: Introduction
+            General psychology: Human being as a subject of activity
+            General psychology: Human being as a subject of cognition
+            Labour psychology, engineering psychology, ergonomics
+            Fundamentals of neuropsychology
+            Fundamentals of pathopsychology
+            Fundamentals of counseling psychology: Psychological counseling
+            Fundamentals of counseling psychology: Introduction to supervision
+            Methods of teaching psychology in secondary educational institutions
+            Ethnopsychology
+            Stress psychology
+            Mental developmental disorders in childhood and adolescence
+            Introduction to comprehension psychotherapy
+            Psychology of consciousness and experiencing
+            Introduction to child and adolescent psychotherapy
+            Psychoanalysis
+            Existential and humanistic psychotherapy
+            Cognitive behavioral psychotherapy
+            History of psychotherapy
+            Group psychotherapy
+            Autistic child
+            Psychology of communicative interaction
+            Game methods in psychological counseling
+            Qualitative methods in psychological practice
+            Psychological theory of activity: history of science perspectives
+            Basic techniques of understanding psychotherapy
+            Family factors of child development
+            Psychotechniques of creative thinking
+            Applied physical education (elective discipline)
+            Cross-cultural psychology (studied in English)
+            Theory and methodology of modern psychology (studied in English)
+            Qualitative and quantitative research methods in psychology (studied in English)
+            Cross-cultural psychology of organizational behavior (studied in English)
+            Interpersonal interaction (studied in English)
+            Cross-cultural research methodology (studied in English)
+            Sociocultural aspects of clinical and pathopsychology (studied in English)
+            Business analytics in R and Python environment
+            Applied psychology of consumer behavior (studied in English)
+            Behavioral economics (studied in English)
+            Labour and organizational psychology (studied in English)
+            Leadership and organization (studied in English)
+            Analysis of organizations (studied in English)
+            Scientific research seminar "Social and cross-cultural psychology" (studied in English)
+            Interdisciplinary courseworks
             """;
 
     protected String[] getSubjectsArray() {
