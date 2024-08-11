@@ -1396,6 +1396,42 @@ public class TranslationDB {
             Analysis of organizations (studied in English)
             Scientific research seminar "Social and cross-cultural psychology" (studied in English)
             Interdisciplinary courseworks
+            Latin language and ancient culture
+            Psychology and pedagogy (psychology)
+            Psychology and pedagogy (pedagogy)
+            Basics of German language theory
+            Practical course of English language 1 semester
+            Practical course of English language 2 semester
+            Practical course of English language 3 semester
+            Practical course of English language 4 semester
+            Practical course of German language 5 semester
+            Practical course of German language 6 semester
+            Practical course in English language translation 6 semester
+            Practical course of English language translation 9 semester
+            Practical course of German language translation 9 semester
+            Practical course of German language translation 10 semester
+            Practical course on culture of speech communication of English language 8 semester
+            Practical course on culture of speech communication of English language 10 semester
+            Practical course on culture of speech communication of German language 8 semester
+            Practical course on culture of speech communication of German language 9 semester
+            Practical course on culture of speech communication of German language 10 semester
+            History and culture of Great Britain and the USA
+            Literary history of Great Britain and the USA
+            Communicative grammar
+            Cultural anthropology
+            Aesthetics, ethics
+            Philosophy of culture
+            New information technologies
+            Myths of Ancient Greece
+            Business administration with the basics of computer technology
+            History of English and American culture of the end of XIX - first half of XX centuries\s
+            Specifics of business communication in English and Russian cultures
+            Technical translation
+            Translation of texts on ecology
+            Translation of texts on refrigeration plants and oil refining
+            Translation of texts on drilling
+            Translation of texts on shipbuilding
+            Translation of texts on welding
             """;
 
     protected String[] getSubjectsArray() {
